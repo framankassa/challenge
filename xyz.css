@@ -1,0 +1,33 @@
+.button1{
+    background-color: rgb(27, 85, 27);
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+   border-radius: 3px;
+   font-family: Verdana;
+
+}
+
+.button1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.title{
+    font-weight: bold;
+    font-family: Verdana;
+  margin-bottom: 0;
+  margin-top: 0
+}
+.header{
+    font-family: verdana;
+    margin-top: 0;
+    color:grey;
+}
+.body{
+    font-family: verdana;
+    width: 300px;
+    
+}
